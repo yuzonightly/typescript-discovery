@@ -1,0 +1,19 @@
+{
+  "name": "typescript-discovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzonightly/typescript-discovery.git"
+  },
+  "author": "yuzonightly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzonightly/typescript-discovery/issues"
+  },
+  "homepage": "https://github.com/yuzonightly/typescript-discovery#readme"
+}
