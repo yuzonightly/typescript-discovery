@@ -1,6 +1,6 @@
 # typescript-discovery
 
-Exploring Typescript.
+Exploring Typescript. Libraries and utilitarian functions/artifacts.
 
 ```bash
 npm install -g ts-node typescript '@types/node'
